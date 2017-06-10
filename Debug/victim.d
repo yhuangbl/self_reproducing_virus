@@ -1,0 +1,1 @@
+victim.o: ../victim.cpp
